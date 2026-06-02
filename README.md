@@ -1,4 +1,4 @@
-# 🚀 Sistema de Procesamiento de Usuarios (Resolución Pura en Strings)
+# 🚀 Sistema de Procesamiento de Usuarios (Examen recuperatorio)
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-2.0+-F05032?style=for-the-badge&logo=git&logoColor=white)
